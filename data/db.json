@@ -1,0 +1,7 @@
+{
+  "filmes": [
+    { "id": 1, "titulo": "Titanic", "ano": 1997 },
+    { "id": 2, "titulo": "O Senhor dos Anéis", "ano": 2001 },
+    { "id": 3, "titulo": "Vingadores", "ano": 2012 }
+  ]
+}
